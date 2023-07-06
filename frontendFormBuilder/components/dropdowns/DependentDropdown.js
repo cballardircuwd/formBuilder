@@ -5,7 +5,7 @@ import {
 	Alert,
 	StatusBar,
 	Text,
-	Pressable ,
+	Pressable,
 	View,
 } from 'react-native';
 import {Dropdown} from 'react-native-element-dropdown';
